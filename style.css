@@ -1,3 +1,12 @@
 body{
     font-size:1em;
 }
+
+#display{
+    height:100%;
+    border:1px solid;
+    font-size:2em;
+    margin: 50% auto;
+    width:80px;
+    height:80px;
+}
