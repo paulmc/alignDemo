@@ -1,19 +1,28 @@
 body{
     font-size:1em;
+    //background-color:#ddd;
 }
 
+#div{
+}
 #container{
-    width:1024px;
+    width:780px;
      margin: 0 auto; 
+    border:1px solid #Fcc;
 }
 
 #header, #footer{
     float:left;
     width:100%;
+    border:1px solid #cFc;
 }
 
 #left, #center, #right{
     float:left;
     width:33%;
+    border:1px solid #ccc;
 }
 
+#center{
+//    margin:50px;
+}
